@@ -7,7 +7,7 @@ class Stripes extends Component {
 
     showStripes = () => (
         <div>
-            stripes
+            stripes 
         </div>
     )
 
